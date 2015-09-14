@@ -1,0 +1,10 @@
+Package: com.self.wechattweak
+Name: WeChatTweak
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Alaysh
+Author: Alaysh
+Section: Tweaks
+Version: 0.0.1-32
+Installed-Size: 68
